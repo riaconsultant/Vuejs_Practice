@@ -1,0 +1,26 @@
+{
+  "name": "Vuejs_Practice",
+  "version": "1.0.0",
+  "description": "Vuejs Practice set Intermediate lavel",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riaconsultant/Vuejs_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riaconsultant/Vuejs_Practice/issues"
+  },
+  "homepage": "https://github.com/riaconsultant/Vuejs_Practice#readme",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
