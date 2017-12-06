@@ -1,5 +1,5 @@
 {
-  "name": "Vuejs_Practice",
+  "name": "vuejs_practice",
   "version": "1.0.0",
   "description": "Vuejs Practice set Intermediate lavel",
   "main": "index.js",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/riaconsultant/Vuejs_Practice#readme",
   "dependencies": {
-    "vue": "^2.5.9"
+    "vue": "^2.5.9",
+    "vue-router": "^3.0.1"
   }
 }
